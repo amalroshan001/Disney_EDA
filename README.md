@@ -1,0 +1,4 @@
+- Open jupyter notebook
+- Runn all cells
+- Contains visual representation of data
+- initialize
